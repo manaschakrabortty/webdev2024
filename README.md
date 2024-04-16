@@ -1,5 +1,7 @@
 
 In 2024, web development practices are continually evolving, and YouTube remains a valuable resource for staying updated. Here's a concise guide in few lines:
+
+
 Begin with HTML5, mastering semantic markup for content structure.
 Learn CSS3 for styling, animations, and responsive design.
 Understand the box model to control layout and spacing.
